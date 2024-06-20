@@ -1,1 +1,1 @@
-myfirst_name = "John"
+x, y, z = "Orange", "Banana", "Cherry"
